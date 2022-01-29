@@ -36,4 +36,4 @@
 - [Cope Pierre Hack](https://github.com/Arrowana/cope-roulette-pro)
 
 # Contributing
-- Please make any PR's or tweet at me for more additional resources/hack reports
+- Please make any PR's or tweet @kevinchow23 for more additional resources/hack reports
