@@ -15,7 +15,8 @@
     - https://twitter.com/armaniferrante/status/1411589639006154754?s=21
     - https://twitter.com/armaniferrante/status/1411589629384355840?s=21
         - Archive (in case of deadlink): https://threadreaderapp.com/thread/1411589629384355840.html
-- https://github.com/project-serum/sealevel-attacks/tree/master/programs
+- [Sealevel attacks by Armani](https://github.com/project-serum/sealevel-attacks/tree/master/programs)
+    - Common malpractices (broken into secure, insecure, recommended)
     - Tweet thread breakdown https://twitter.com/pencilflip/status/1483880018858201090
 - [Neodyme Breakpoint Workshop](https://workshop.neodyme.io/)
     - CTF style!
