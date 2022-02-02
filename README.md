@@ -35,6 +35,10 @@
 - [spl-token lending protocol exploit](https://blog.neodyme.io/posts/lending_disclosure)
 - [Jet hack](https://medium.com/@0xjayne/-how-to-freely-borrow-all-the-tvl-from-the-jet-protocol-25d40e35920e)
 - [Cope Pierre Hack](https://github.com/Arrowana/cope-roulette-pro)
+- [Wallet simulation rug pull](https://opcodes.fr/publications/2022-01/detecting-transaction-simulation/)
+    - [Tweet about it](https://twitter.com/TheCryptoBird/status/1488560566029500427?s=20&t=l9rpVewzESNoByVd0MPe1g)
+- [Why Magic Eden is garbage Tweet](https://twitter.com/AndreiBalici/status/1488077648542769154?s=20&t=l9rpVewzESNoByVd0MPe1g)
+    - transferring token authority from user to magic eden
 
 # Contributing
 - Please make any PR's or tweet @kevinchow23 for more additional resources/hack reports
