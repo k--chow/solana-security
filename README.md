@@ -39,6 +39,13 @@
     - [Tweet about it](https://twitter.com/TheCryptoBird/status/1488560566029500427?s=20&t=l9rpVewzESNoByVd0MPe1g)
 - [Why Magic Eden is garbage Tweet](https://twitter.com/AndreiBalici/status/1488077648542769154?s=20&t=l9rpVewzESNoByVd0MPe1g)
     - transferring token authority from user to magic eden
-
+- [Wormhole Hack](https://twitter.com/samczsun/status/1489044939732406275)
+    - call complete_wrapped (instruction 03)
+    - post_VAA (instruction 02) called on main bridge
+    - `solana_program::sysvar::instructions` not verified in this vesion of solana_program
+    - https://twitter.com/wireless_anon/status/1489075372662476800?s=20&t=XHV8n8c4DJOBzcKwzAqunw
+    - unmerged PR to fix issue: https://github.com/certusone/wormhole/commit/7edbbd3677ee6ca681be8722a607bc576a3912c8#diff-0d27d8889edd071b86d3f3299276882d97613ad6ab3b0b6412ae4ebf3ccd6370L92-R101
+- [Soteria Bug report on solana stake pool](https://medium.com/coinmonks/solana-stake-pool-a-semantic-inconsistency-vulnerability-discovered-by-soteria-b92abcbaf909)
 # Contributing
 - Please make any PR's or tweet @kevinchow23 for more additional resources/hack reports
+- Internet archive posts + tweets
