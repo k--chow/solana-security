@@ -46,6 +46,7 @@
     - https://twitter.com/wireless_anon/status/1489075372662476800?s=20&t=XHV8n8c4DJOBzcKwzAqunw
     - unmerged PR to fix issue: https://github.com/certusone/wormhole/commit/7edbbd3677ee6ca681be8722a607bc576a3912c8#diff-0d27d8889edd071b86d3f3299276882d97613ad6ab3b0b6412ae4ebf3ccd6370L92-R101
 - [Soteria Bug report on solana stake pool](https://medium.com/coinmonks/solana-stake-pool-a-semantic-inconsistency-vulnerability-discovered-by-soteria-b92abcbaf909)
+- [Potential Solana attack vector on ERC-20 approve (Actually happened to Solfire victims)](https://2501babe.github.io/tools/revoken.html)
 # Contributing
 - Please make any PR's or tweet @kevinchow23 for more additional resources/hack reports
 - Internet archive posts + tweets
