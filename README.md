@@ -31,6 +31,12 @@
 - [Assert Balances](https://github.com/project-serum/assert-balances)
     - Assertion instruction included on client-side/wallets, allows safe failure if unexpected result
 
+- Soteria Series on Internals
+    - [Part 1: On chain programs](https://www.soteria.dev/post/solana-internals-part-1-what-are-the-native-on-chain-programs-and-why-do-they-matter)
+    - [Part 2: Deploying and upgrading under the hood](https://www.soteria.dev/post/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded)
+    - [Part 3: How the Transaction Processing Unit works](https://www.soteria.dev/post/solana-internals-part-3-the-transaction-processing-unit-tpu)
+    - [Part 4: Bank Internals](https://www.soteria.dev/post/solana-internals-part-4-the-bank-a-key-component)
+
 # Hacks/Exploit reports
 - [spl-token lending protocol exploit](https://blog.neodyme.io/posts/lending_disclosure)
 - [Jet hack](https://medium.com/@0xjayne/-how-to-freely-borrow-all-the-tvl-from-the-jet-protocol-25d40e35920e)
@@ -47,6 +53,9 @@
     - unmerged PR to fix issue: https://github.com/certusone/wormhole/commit/7edbbd3677ee6ca681be8722a607bc576a3912c8#diff-0d27d8889edd071b86d3f3299276882d97613ad6ab3b0b6412ae4ebf3ccd6370L92-R101
 - [Soteria Bug report on solana stake pool](https://medium.com/coinmonks/solana-stake-pool-a-semantic-inconsistency-vulnerability-discovered-by-soteria-b92abcbaf909)
 - [Potential Solana attack vector on ERC-20 approve (Actually happened to Solfire victims)](https://2501babe.github.io/tools/revoken.html)
+
+## VM
+- [Integer overflow in rBPF](https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee)
 # Contributing
 - Please make any PR's or tweet @kevinchow23 for more additional resources/hack reports
 - Internet archive posts + tweets
