@@ -45,6 +45,7 @@
     - [Tweet about it](https://twitter.com/TheCryptoBird/status/1488560566029500427?s=20&t=l9rpVewzESNoByVd0MPe1g)
 - [Why Magic Eden is garbage Tweet](https://twitter.com/AndreiBalici/status/1488077648542769154?s=20&t=l9rpVewzESNoByVd0MPe1g)
     - transferring token authority from user to magic eden
+    - https://github.com/solana-labs/solana-program-library/issues/2640
 - [Wormhole Hack](https://twitter.com/samczsun/status/1489044939732406275)
     - call complete_wrapped (instruction 03)
     - post_VAA (instruction 02) called on main bridge
@@ -53,6 +54,9 @@
     - unmerged PR to fix issue: https://github.com/certusone/wormhole/commit/7edbbd3677ee6ca681be8722a607bc576a3912c8#diff-0d27d8889edd071b86d3f3299276882d97613ad6ab3b0b6412ae4ebf3ccd6370L92-R101
 - [Soteria Bug report on solana stake pool](https://medium.com/coinmonks/solana-stake-pool-a-semantic-inconsistency-vulnerability-discovered-by-soteria-b92abcbaf909)
 - [Potential Solana attack vector on ERC-20 approve (Actually happened to Solfire victims)](https://2501babe.github.io/tools/revoken.html)
+- [exchgART hack](https://twitter.com/exchgART/status/1489881735642947589?s=20&t=SDiPEXeh3SjfCyOv7zXaBg)
+    - [Archive thread](https://threadreaderapp.com/thread/1489881735642947589.html)
+    - drained funds in offer accounts. But refunded.
 
 ## VM
 - [Integer overflow in rBPF](https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee)
