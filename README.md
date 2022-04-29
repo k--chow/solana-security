@@ -1,5 +1,5 @@
 # Solana Security Resources
-
+- [Osec's guide to an auditor's introduction](https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
 - [Solend Auditing Workshop](https://docs.google.com/presentation/d/1jZ9kVo6hnhBsz3D2sywqpMojqLE5VTZtaXna7OHL1Uk/edit?pli=1#slide=id.ge15c343642_0_51)
     - more general blockchain than solana-specific
 
@@ -37,8 +37,10 @@
     - [Part 3: How the Transaction Processing Unit works](https://www.soteria.dev/post/solana-internals-part-3-the-transaction-processing-unit-tpu)
     - [Part 4: Bank Internals](https://www.soteria.dev/post/solana-internals-part-4-the-bank-a-key-component)
 
-# Hacks/Exploit reports
-- [spl-token lending protocol exploit](https://blog.neodyme.io/posts/lending_disclosure)
+# Hacks/Bug bounty reports
+- [spl-token lending protocol exploit (neodyme)](https://blog.neodyme.io/posts/lending_disclosure)
+- [spl-token-swap rounding exploit (osec)](https://osec.io/blog/reports/2022-04-26-spl-swap-rounding/)
+    - [Osec tweet](https://twitter.com/osec_io/status/1518967950610362368)
 - [Jet hack](https://medium.com/@0xjayne/-how-to-freely-borrow-all-the-tvl-from-the-jet-protocol-25d40e35920e)
 - [Cope Pierre Hack](https://github.com/Arrowana/cope-roulette-pro)
 - [Wallet simulation rug pull](https://opcodes.fr/publications/2022-01/detecting-transaction-simulation/)
@@ -57,9 +59,14 @@
 - [exchgART hack](https://twitter.com/exchgART/status/1489881735642947589?s=20&t=SDiPEXeh3SjfCyOv7zXaBg)
     - [Archive thread](https://threadreaderapp.com/thread/1489881735642947589.html)
     - drained funds in offer accounts. But refunded.
-
-## VM
+- [Jet 20m bug report](https://www.jetprotocol.io/posts/jet-bug-disclosure)
+    - [Tweet breakdown](https://twitter.com/charlieyouai/status/1508842093514567687?s=21&t=GhJJPq1QvKut5JIU8he9Uw)
+- [Serum v4 bug](https://forum.projectserum.com/t/bug-bounty-for-loss-of-funds-bug-in-aob/446)
+- [Serum Zero day](https://www.btblock.io/post/btblock-finds-serum-zero-day-serum-fixes-immediately)
+- [Cashio hack (Soteria)](https://www.soteria.dev/post/cashioapp-attack-whats-the-vulnerability-and-how-soteria-detects-it)
+- [Cheating Oracles on Solana](https://osec.io/blog/reports/2022-02-16-lp-token-oracle-manipulation/)
 - [Integer overflow in rBPF](https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee)
+
 # Contributing
 - Please make any PR's or tweet @kevinchow23 for more additional resources/hack reports
 - Internet archive posts + tweets
