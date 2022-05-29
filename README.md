@@ -18,10 +18,6 @@
 - [Sealevel attacks by Armani](https://github.com/project-serum/sealevel-attacks/tree/master/programs)
     - Common malpractices (broken into secure, insecure, recommended)
     - Tweet thread breakdown https://twitter.com/pencilflip/status/1483880018858201090
-- [Neodyme Breakpoint Workshop](https://workshop.neodyme.io/)
-    - CTF style!
-- [Neodyme Breakpoint Workshop Video](https://www.youtube.com/watch?v=vbkhhgeP30I&ab_channel=Solana)
-    - Goes over exercise 0 of Neodyme Breakpoint Workshop
 - [Neodyme Solana Common Pitfalls](https://blog.neodyme.io/posts/solana_common_pitfalls)
     - Give hints to the Workshop exercises
 - [Saber Library for basic security checks](https://github.com/saber-hq/vipers)
@@ -36,6 +32,16 @@
     - [Part 2: Deploying and upgrading under the hood](https://www.soteria.dev/post/solana-internals-part-2-how-is-a-solana-program-deployed-and-upgraded)
     - [Part 3: How the Transaction Processing Unit works](https://www.soteria.dev/post/solana-internals-part-3-the-transaction-processing-unit-tpu)
     - [Part 4: Bank Internals](https://www.soteria.dev/post/solana-internals-part-4-the-bank-a-key-component)
+## Hands On (CTF Challenges)
+- [Neodyme Breakpoint Workshop](https://workshop.neodyme.io/)
+    - CTF style
+- [Neodyme Breakpoint Workshop Video](https://www.youtube.com/watch?v=vbkhhgeP30I&ab_channel=Solana)
+    - Goes over exercise 0 of Neodyme Breakpoint Workshop
+- [TJCTF 2022 Moar-Horse-5](https://ctf.tjctf.org/)
+    - CTF Solana challenge
+- [PicoCTF 2022 Solfire](https://play.picoctf.org/practice?page=1&search=solfire)
+    - CTF Solana challenge
+
 
 # Hacks/Bug bounty reports
 - [spl-token lending protocol exploit (neodyme)](https://blog.neodyme.io/posts/lending_disclosure)
