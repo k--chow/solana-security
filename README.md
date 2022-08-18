@@ -1,7 +1,8 @@
 # Solana Security Resources
-- [Osec's guide to an auditor's introduction](https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
+- [OtterSec's guide to an auditor's introduction](https://osec.io/blog/tutorials/2022-03-14-solana-security-intro/)
 - [Solend Auditing Workshop](https://docs.google.com/presentation/d/1jZ9kVo6hnhBsz3D2sywqpMojqLE5VTZtaXna7OHL1Uk/edit?pli=1#slide=id.ge15c343642_0_51)
     - more general blockchain than solana-specific
+- [Zellic's list of Anchor vulnerabilities](https://blog.zellic.io/2022/08/16/the-vulnerabilities-youll-write-with-anchor/)
 
 - Soteria Series on Auditing
     - [Intro](https://medium.com/coinmonks/how-to-audit-solana-smart-contracts-part-1-a-systematic-approach-56a434f6c-9ed)
@@ -71,6 +72,8 @@
 - [Serum Zero day](https://www.btblock.io/post/btblock-finds-serum-zero-day-serum-fixes-immediately)
 - [Cashio hack (Soteria)](https://www.soteria.dev/post/cashioapp-attack-whats-the-vulnerability-and-how-soteria-detects-it)
 - [Cheating Oracles on Solana](https://osec.io/blog/reports/2022-02-16-lp-token-oracle-manipulation/)
+- [Solana Core seed collision (Neodyme)](https://blog.neodyme.io/posts/solana_core_1)
+- [Zellic Postmortem of Drift](https://blog.zellic.io/2022/05/16/drift-postmortem/)
 - [Integer overflow in rBPF](https://blocksecteam.medium.com/new-integer-overflow-bug-discovered-in-solana-rbpf-7729717159ee)
 
 # Contributing
